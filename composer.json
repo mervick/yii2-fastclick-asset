@@ -1,0 +1,24 @@
+{
+    "name": "mervick/yii2-fastclick-asset",
+    "description": "Yii2 fastclick.js Asset",
+    "keywords": ["yii2", "fastclick", "asset"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "support": {
+        "source": "https://github.com/mervick/yii2-fastclick-asset"
+    },
+    "authors": [
+        {
+            "name": "Andrey Izman",
+            "email": "izmanw@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*",
+        "bower-asset/fastclick": "@stable"
+    },
+    "autoload": {
+        "psr-4": { "mervick\\yii2\\fastclick\\": "" }
+    }
+}
