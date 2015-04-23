@@ -19,6 +19,6 @@
         "bower-asset/fastclick": "@stable"
     },
     "autoload": {
-        "psr-4": { "mervick\\yii2\\fastclick\\": "" }
+        "psr-0": { "mervick\\yii2\\FastClickAsset": "" }
     }
 }
