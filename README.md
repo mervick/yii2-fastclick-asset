@@ -5,7 +5,7 @@ Add in `composer.json`:
 ```JSON
 {
     "require": {
-        "mervick/yii2-fastclick-asset": "*"
+        "mervick/yii2-fastclick-asset": "1.*"
     }
 }
 ```
