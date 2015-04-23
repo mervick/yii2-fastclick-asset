@@ -1,6 +1,6 @@
 <?php
 
-namespace mervick\yii2\fastclick;
+namespace mervick\yii2;
 
 use yii\web\AssetBundle;
 
